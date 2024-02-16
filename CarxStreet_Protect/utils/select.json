@@ -1,0 +1,153 @@
+{
+    "stack": {
+        "id": "engine_datsun620",
+        "_lv": {
+            "value": {
+                "cells": {
+                    "0": {
+                        "stack": {
+                            "id": "engine_block_stock"
+                        }
+                    },
+                    "1": {
+                        "stack": {
+                            "id": "engine_camshaft_stock"
+                        }
+                    },
+                    "2": {
+                        "stack": {
+                            "id": "engine_cooling_stock"
+                        }
+                    },
+                    "3": {
+                        "stack": {
+                            "id": "engine_cylinder_head_stock"
+                        }
+                    },
+                    "4": {
+                        "stack": {
+                            "id": "engine_ecu_stock"
+                        }
+                    },
+                    "5": {
+                        "stack": {
+                            "id": "engine_exhaust_manifold_stock"
+                        }
+                    },
+                    "6": {
+                        "stack": {
+                            "id": "engine_exhaust_stock"
+                        }
+                    },
+                    "7": {
+                        "stack": {
+                            "id": "engine_fuel_system_stock"
+                        }
+                    },
+                    "8": {
+                        "stack": {
+                            "id": "engine_intake_manifold_stock"
+                        }
+                    },
+                    "9": {
+                        "stack": {
+                            "id": "engine_turbine_stock1"
+                        }
+                    }
+                },
+                "resources": {
+                    "resource": {
+                        "amount": 1
+                    },
+                    "repair_limit": {
+                        "amount": 1
+                    },
+                    "throttle_limit": {
+                        "amount": 1
+                    }
+                },
+                "parts_collection": {
+                    "seed": 0,
+                    "items": {}
+                }
+            }
+        }
+    }
+}
+
+{
+    "stack": {
+        "id": "engine_skyliner35",
+        "_lv": {
+            "value": {
+                "cells": {
+                    "0": {
+                        "stack": {
+                            "id": "engine_block_stock"
+                        }
+                    },
+                    "1": {
+                        "stack": {
+                            "id": "engine_camshaft_stock"
+                        }
+                    },
+                    "2": {
+                        "stack": {
+                            "id": "engine_cooling_stock"
+                        }
+                    },
+                    "3": {
+                        "stack": {
+                            "id": "engine_cylinder_head_stock"
+                        }
+                    },
+                    "4": {
+                        "stack": {
+                            "id": "engine_ecu_stock"
+                        }
+                    },
+                    "5": {
+                        "stack": {
+                            "id": "engine_exhaust_manifold_stock"
+                        }
+                    },
+                    "6": {
+                        "stack": {
+                            "id": "engine_exhaust_stock"
+                        }
+                    },
+                    "7": {
+                        "stack": {
+                            "id": "engine_fuel_system_stock"
+                        }
+                    },
+                    "8": {
+                        "stack": {
+                            "id": "engine_intake_manifold_stock"
+                        }
+                    },
+                    "9": {
+                        "stack": {
+                            "id": "engine_turbine_stock"
+                        }
+                    }
+                },
+                "resources": {
+                    "resource": {
+                        "amount": 1
+                    },
+                    "repair_limit": {
+                        "amount": 1
+                    },
+                    "throttle_limit": {
+                        "amount": 1
+                    }
+                },
+                "parts_collection": {
+                    "seed": 0,
+                    "items": {}
+                }
+            }
+        }
+    }
+}
